@@ -1,8 +1,6 @@
 html{
 
 	height: 100%;
-	
-	
 }
 
 body{
@@ -12,7 +10,8 @@ body{
 	height:100%;
 	width:1200;
 	overflow: hidden;
-	
+	background-color: #60a9ff; 
+  	background-image: radial-gradient(circle, #ECEFF1 80%, white 100%);	
 }
 .row1{
 	height:338px;
@@ -32,7 +31,7 @@ body{
 	border-radius: 10px;
 	/*box-shadow: -5px 10px 10px -5px grey;*/
 	/*box-shadow:0px 10px 13px -6px rgba(0, 0, 0, 0.08);*/
-	box-shadow:0 4px 17px 0 rgba(0, 0, 0, 0.2);
+	/*box-shadow:0 4px 17px 0 rgba(0, 0, 0, 0.2);*/
 }
 
 .col1{
